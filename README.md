@@ -9,3 +9,5 @@ OpenCV – For video capture and drawing
 MediaPipe – For detecting and tracking hand landmarks
 
 NumPy – For image processing and array manipulations
+
+This was my first python project after a while and it helped in lot of ways.
