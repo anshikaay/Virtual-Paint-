@@ -2,7 +2,7 @@ Built a real-time Virtual Paint App using Python, OpenCV, and MediaPipe to allow
 The app tracks hand movements through a webcam and maps fingertip positions to virtual drawing actions.
 
 🧠 Technologies Used:
-Python 3.x
+Python 3
 
 OpenCV – For video capture and drawing
 
